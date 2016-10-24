@@ -1,0 +1,14 @@
+<section class="index-title">
+    <section class="index-titlel">
+        <img src="/images/newlogo.png" alt="">
+    </section>
+    <section class="index-titlec">
+        <div>
+            <img src="/images/search.png" alt="">
+            <label for="">搜索商品or品牌</label>
+        </div>
+    </section>
+    <section class="index-titler">
+        <img src="/images/saoyisao.png" alt="">
+    </section>
+</section>

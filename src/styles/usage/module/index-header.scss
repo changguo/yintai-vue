@@ -1,0 +1,39 @@
+.index-title {
+    height: 60px;
+    width: 100%;
+    background: #Fff;
+    @include flexbox();
+    @include flex-direction(row);
+    .index-titlel {
+        @include flex(1.5);
+        img {
+            width: 90%;
+            height: 80%;
+            margin-top: 10%;
+        }
+    }
+    .index-titlec {
+        @include flex(5);
+        div {
+            width: 100%;
+            height: 35px;
+            margin-top: 15px;
+            @include border(1px, solid, #CCCCCC, 5px);
+            img {
+                margin: -5px 0 0 10%;
+            }
+            label {
+                line-height: 40px;
+                font-weight: 600;
+                font-size: 1.2em;
+                color: #D0D0D0;
+            }
+        }
+    }
+    .index-titler {
+        @include flex(1);
+        img {
+            margin: 18px 0 0 20%;
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "isSuccessful": true,
+    "statusCode": 200,
+    "description": "",
+    "userId": "sHhKtDDMXLlzbLQIWxy6L+sQ57Cvepc2TjnkxMxN0d8tgReMiVkKCdBFrQbzVTRIhY/cqp0Zf1mi/mGC6j9sjQ==",
+    "data": {
+        "user": {
+            "name": "MFH9jDAYL",
+            "class": "普卡会员",
+            "point": 0,
+            "pointfrozen": 0,
+            "coin": 0.0,
+            "money": 0.0,
+            "setpassword": false,
+            "ytcard": 0.0,
+            "pushid": "1918a7d545363e5465e4c662a92692b9",
+            "accesstoken": null,
+            "mobile": "13181605066",
+            "cellphoneconfusion": "131*****066",
+            "iscellphoneconfirmed": true,
+            "customerguid": "8503f762-27fe-4128-96c1-1b3e9b41a8c9",
+            "customerlabels": [],
+            "logintype": 0,
+            "openid": ""
+        },
+        "indexinfo": {
+            "onroadcount": 0,
+            "needpaycount": 0,
+            "addresscount": 0,
+            "waybillcount": 0,
+            "favcount": 0,
+            "promotioncount": 0,
+            "setpaypassword": true,
+            "reason": "",
+            "msgcount": 0,
+            "pretuncount": 0,
+            "isopenticketscan": 1
+        }
+    }
+}

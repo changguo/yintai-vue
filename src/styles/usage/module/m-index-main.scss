@@ -1,0 +1,186 @@
+@import './index-header.scss';
+@import './index-banner.scss';
+.index-main {
+    height: 100%;
+    width: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    .scrollcontainers {
+        @include flex();
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        .mainscroll {
+            width: 100%;
+            height: 100%;
+            .FuncAreaFourImg {
+                height: 100px;
+                width: 100%;
+                ul {
+                    width: 100%;
+                    height: 100%;
+                    @include flexbox();
+                    @include flex-direction(row);
+                    li {
+                        @include flex(1);
+                        height: 100%;
+                        img {
+                            height: 65px;
+                            padding-bottom: 5px;
+                            @include justify-content(center);
+                            @include align-items(center);
+                        }
+                        span {
+                            display: block;
+                            height: 25px;
+                            width: 100%;
+                            text-align: center;
+                        }
+                    }
+                }
+            }
+            .hr {
+                width: 100%;
+                height: 5px;
+                background: #F1F1F1;
+            }
+            .FloorSpace2 {
+                width: 100%;
+            }
+            .ProductSingleRow4 {
+                width: 100%;
+                overflow: hidden;
+                ul {
+                    @include flexbox();
+                    @include flex-direction(row);
+                    width: 1000px;
+                    li {
+                        position: relative;
+                        min-width: 90px;
+                        @include flex();
+                        span {
+                            position: absolute;
+                            display: block;
+                            height: 24px;
+                            background: #FF3B7F;
+                            color: #fff;
+                        }
+                        p {
+                            height: 44px;
+                            overflow: hidden;
+                        }
+                        b {
+                            color: #E5004F;
+                        }
+                    }
+                }
+            }
+            .Oneimg {
+                width: 100%;
+                img {
+                    width: 100%;
+                }
+            }
+            .OneImage5 {
+                width: 100%;
+                ul {
+                    width: 100%;
+                    @include flexbox();
+                    @include flex-direction(row);
+                    @include flex-wrap(wrap);
+                    li {
+                        @include flex();
+                        min-width: 50%;
+                        img {
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+            .ThreeImgLeftOne12 {
+                width: 100%;
+                @include flexbox();
+                @include flex-direction(row);
+                .ThreeImgLeftOne12one {
+                    @include flex();
+                    img {
+                        width: 100%;
+                    }
+                }
+                .ThreeImgLeftOne12two {
+                    @include flex();
+                    @include flexbox();
+                    @include flex-direction(column);
+                    img {
+                        @include flex();
+                        width: 100%;
+                    }
+                }
+            }
+            .ThreeImgAbreast13 {
+                width: 100%;
+                @include flexbox();
+                @include flex-direction(row);
+                li {
+                    @include flex();
+                    img {
+                        width: 100%;
+                    }
+                }
+            }
+            .Oneimgs {
+                height: 10px;
+                width: 100%;
+                background: #F1F1F1;
+            }
+            .ProductDouble {
+                width: 100%;
+                ul {
+                    width: 100%;
+                    height: 100%;
+                    @include flexbox();
+                    @include flex-direction(row);
+                    background: #F2F2F2;
+                    li {
+                        @include flex(1);
+                        height: 100%;
+                        background: #fff;
+                        position: relative;
+                        &:nth-child(1) {
+                            margin: 2px 2px 2px 2%;
+                        }
+                        &:nth-child(2) {
+                            margin: 2px 2% 2px 2px;
+                        }
+                        img {
+                            width: 100%;
+                            height: 240px;
+                            @include justify-content(center);
+                            @include align-items(center);
+                        }
+                        span {
+                            position: absolute;
+                            display: block;
+                            height: 24px;
+                            background: #FF3B7F;
+                            color: #fff;
+                        }
+                        p {
+                            padding: 0 10px;
+                            height: 44px;
+                            overflow: hidden;
+                        }
+                        b {
+                            padding: 0 10px;
+                            color: #E5004F;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+.title {
+    width: 100%;
+}

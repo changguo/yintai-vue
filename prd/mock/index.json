@@ -1,0 +1,3552 @@
+{
+    "isSuccessful": true,
+    "statusCode": 200,
+    "description": "",
+    "userId": "",
+    "data": {
+        "pageid": "30000000",
+        "pageindex": 1,
+        "pagecount": 1,
+        "bannerlist": [{
+                "id": 11008310,
+                "imgname": "箱包",
+                "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/622e4ace-9d77-4ea3-90f9-c0f8d59e53a2.jpg",
+                "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30001744&allowRefresh=1&title=%E7%AE%B1%E5%8C%85%E7%8B%82%E6%AC%A2PARTY",
+                "sort": 100,
+                "updatetime": "0",
+                "width": 640,
+                "height": 260
+            },
+            {
+                "id": 11008311,
+                "imgname": " 奢品",
+                "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/392065fb-ffba-4c61-a95d-c2f2e8107dc4.jpg",
+                "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30001747&allowRefresh=1&title=%E8%85%94%E8%B0%83%E7%A7%8B%E5%86%AC%20%E5%A5%A2%E5%93%81%E5%A4%A7%E8%A1%A31199%E5%85%83%E8%B5%B7",
+                "sort": 99,
+                "updatetime": "0",
+                "width": 640,
+                "height": 260
+            },
+            {
+                "id": 11008312,
+                "imgname": "女装",
+                "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/aa1c8663-e331-4f33-9953-40ee4dc03d33.jpg",
+                "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30001753&allowRefresh=1&title=%E6%9C%8D%E9%A5%B0%E6%B1%87",
+                "sort": 16,
+                "updatetime": "0",
+                "width": 640,
+                "height": 260
+            },
+            {
+                "id": 11008313,
+                "imgname": "喵货",
+                "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/01cfa1ed-a91f-4e03-a06b-5a4b17eb7930.jpg",
+                "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30001748&allowRefresh=1&title=%E7%A7%8B%E5%BE%AE%E5%87%89%20%E6%80%A7%E6%84%9F%E6%8D%A2%E6%96%B0",
+                "sort": 14,
+                "updatetime": "0",
+                "width": 640,
+                "height": 260
+            }
+        ],
+        "bannerlistid": 10000279,
+        "bgcolor": "#f1f1f1",
+        "pagetitle": "首页20150709",
+        "templatelist": [{
+                "templateid": 20004229,
+                "templatename": "功能区-4图正常",
+                "templatetype": "FuncAreaFourImg",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 5000,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21006575",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 90,
+                        "width": 155,
+                        "imgname": "专柜同款",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/1186f052-21cb-4f0c-bd7d-4e379efedf37.png",
+                        "itemposition": "30000000|0|20004229|1|21006575",
+                        "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30000365&allowRefresh=1&title=%E5%96%B5%E5%87%86%E5%95%86%E5%9C%BA%E5%A5%BD%E8%B4%A7%E4%B8%93%E6%9F%9C%E7%9B%B4%E9%82%AE%E5%88%B0%E5%AE%B6",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21006576",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 90,
+                        "width": 155,
+                        "imgname": "奢品",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/4b11918e-0927-4cec-a002-5b59d619109b.png",
+                        "itemposition": "30000000|0|20004229|2|21006576",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81&searchCondition=N%3D60722495%2B10001885%2B10001886%2B10001887%2B10001888%2B10001889%2B10001890%2B10001891&showtype=double",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21006577",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 90,
+                        "width": 155,
+                        "imgname": "海淘",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/93b5703a-2a60-429d-b130-c8865523f053.png",
+                        "itemposition": "30000000|0|20004229|3|21006577",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E6%B5%B7%E6%B7%98&searchCondition=N%3D10001884%2B60589404&showtype=double",
+                        "sort": 3
+                    },
+                    {
+                        "itemid": "21006578",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 90,
+                        "width": 155,
+                        "imgname": "秋冬上新",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/7ab252cb-deda-41fb-962f-092774b85e31.png",
+                        "itemposition": "30000000|0|20004229|4|21006578",
+                        "jumpurl": "yintaimobile://CustomProductList?Customlistid=1723&title=%E7%A7%8B%E5%AD%A3%E4%B8%8A%E6%96%B0&showtype=double",
+                        "sort": 4
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "",
+                    "floorid": 0,
+                    "floorname": ""
+                }
+            },
+            {
+                "templateid": 20006010,
+                "templatename": "功能区楼层底",
+                "templatetype": "FloorSpace",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 900,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "",
+                    "floorid": 0,
+                    "floorname": ""
+                }
+            },
+            {
+                "templateid": 20013288,
+                "templatename": "爆款专区-楼层头",
+                "templatetype": "OneImg",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 897,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21020016",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "爆款专区-楼层头",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/5567fbf3-36de-45c4-8ec9-72d019777a9d.jpg",
+                    "itemposition": "30000000|0|20013288|1|21020016",
+                    "jumpurl": "yintaimobile://CustomProductList?Customlistid=3013&title=%E6%9B%B4%E5%A4%9A%E7%88%86%E6%AC%BE&showtype=double",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "",
+                    "floorid": 0,
+                    "floorname": ""
+                }
+            },
+            {
+                "templateid": 20013487,
+                "templatename": "爆款专区1020",
+                "templatetype": "ProductSingleRow",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 820,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-123-9392",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 250.00,
+                                "name": "KOSE高丝雪肌精乳液130ml",
+                                "price": 162.00,
+                                "prmotionlist": [{
+                                    "name": "6.5折",
+                                    "plabel": "6.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 249,
+                                "categoryid": 14794,
+                                "operatemode": 2,
+                                "providercode": 188824,
+                                "groupno": "21-123-9392",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/123/9392/GridImage/1506.jpg",
+                        "itemposition": "30000000|0|20013487|1|21-123-9392",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-123-9392",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21-078-1990",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1064.00,
+                                "name": "(自营)Lancome兰蔻新立体塑颜紧致眼霜15ml送眼部精华乳液5ml+塑颜提拉晚霜15ml",
+                                "price": 560.00,
+                                "prmotionlist": [{
+                                    "name": "5.3折",
+                                    "plabel": "5.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 224,
+                                "categoryid": 14791,
+                                "operatemode": 1,
+                                "providercode": 100245,
+                                "groupno": "21-078-1990",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/078/1990/GridImage/24169.jpg",
+                        "itemposition": "30000000|0|20013487|2|21-078-1990",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-078-1990",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21-107-6582",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1800.00,
+                                "name": "【自营】AJ ARMANI JEANS藏青色聚氨酯材质车缝线logo男士手提单肩两用包,C620D T1 P8 MAN BAG",
+                                "price": 789.00,
+                                "prmotionlist": [{
+                                    "name": "4.4折",
+                                    "plabel": "4.4折",
+                                    "pid": null
+                                }],
+                                "brandid": 887,
+                                "categoryid": 14892,
+                                "operatemode": 1,
+                                "providercode": 102016,
+                                "groupno": "21-106-2287",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/107/6582/GridImage/55500.jpg",
+                        "itemposition": "30000000|0|20013487|3|21-107-6582",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-107-6582",
+                        "sort": 3
+                    },
+                    {
+                        "itemid": "21-199-6224",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 269.00,
+                                "name": "ASOBIO男装 公牛贴布拼接长袖夹克外套",
+                                "price": 149.00,
+                                "prmotionlist": [{
+                                    "name": "单品直降",
+                                    "plabel": "直降",
+                                    "pid": "87340"
+                                }],
+                                "brandid": 6,
+                                "categoryid": 14226,
+                                "operatemode": 3,
+                                "providercode": 190335,
+                                "groupno": "21-199-6224",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": "比PC端省120.00元",
+                                "exclusivemobile": "手机专享",
+                                "isexclusivemobile": true
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/199/6224/GridImage/yintai_ff0953dd-cde3-4f5f-868c-c28d41ec4203.jpg",
+                        "itemposition": "30000000|0|20013487|4|21-199-6224",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-199-6224",
+                        "sort": 4
+                    },
+                    {
+                        "itemid": "21-068-1813",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 5100.00,
+                                "name": "【自营】FURLA芙拉多色混合材质蛇纹拼接设计女士单肩斜挎马鞍包,BCLIBGM2EAR00ZTR6 TONI RODONITE+MOONSTONE WOMEN BAG",
+                                "price": 2149.00,
+                                "prmotionlist": [{
+                                    "name": "4.3折",
+                                    "plabel": "4.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 196,
+                                "categoryid": 13638,
+                                "operatemode": 1,
+                                "providercode": 104597,
+                                "groupno": "21-068-1811",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/068/1813/GridImage/33149.jpg",
+                        "itemposition": "30000000|0|20013487|5|21-068-1813",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-068-1813",
+                        "sort": 5
+                    },
+                    {
+                        "itemid": "21-223-0578",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 228.00,
+                                "name": "Bejirog/北极绒女士长袖开衫法兰绒套装睡衣秋冬季厚珊瑚绒家居服套装BJR-B561102612",
+                                "price": 148.00,
+                                "prmotionlist": [{
+                                    "name": "6.5折",
+                                    "plabel": "6.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 1663,
+                                "categoryid": 14328,
+                                "operatemode": 3,
+                                "providercode": 188369,
+                                "groupno": "21-223-0578",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/223/0578/GridImage/yintai_bcfffa2c-1df0-4f36-a856-5ee2ef230249.jpg",
+                        "itemposition": "30000000|0|20013487|6|21-223-0578",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-223-0578",
+                        "sort": 6
+                    },
+                    {
+                        "itemid": "21-213-9032",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 3580.00,
+                                "name": "NEXIIA奈希雅2016新款双面呢大衣秋季女装羊毛8564",
+                                "price": 1080.00,
+                                "prmotionlist": [{
+                                    "name": "奈希雅时尚女装",
+                                    "plabel": "特卖",
+                                    "pid": "22818"
+                                }],
+                                "brandid": 4373,
+                                "categoryid": 14379,
+                                "operatemode": 3,
+                                "providercode": 187619,
+                                "groupno": "21-213-9028",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/213/9032/GridImage/yintai_10649d5a-6369-478f-b16d-9c0f0b285a79.jpg",
+                        "itemposition": "30000000|0|20013487|7|21-213-9032",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-213-9032",
+                        "sort": 7
+                    },
+                    {
+                        "itemid": "21-189-5428",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1168.00,
+                                "name": "Belle/百丽2016秋季黑色牛皮男单鞋A765ACM6,39",
+                                "price": 498.00,
+                                "prmotionlist": [{
+                                    "name": "4.3折",
+                                    "plabel": "4.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 149,
+                                "categoryid": 13676,
+                                "operatemode": 2,
+                                "providercode": 101234,
+                                "groupno": "21-189-5418",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/189/5426/GridImage/41248.jpg",
+                        "itemposition": "30000000|0|20013487|8|21-189-5428",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-189-5428",
+                        "sort": 8
+                    },
+                    {
+                        "itemid": "21-061-4881",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 5500.00,
+                                "name": "【自营】GUCCI古琦黑色羊毛材质印花样式女士围巾,390780 3G200 1075 U",
+                                "price": 2589.00,
+                                "prmotionlist": [{
+                                    "name": "手机专享10.16-10.25",
+                                    "plabel": "直降",
+                                    "pid": "87086"
+                                }],
+                                "brandid": 455,
+                                "categoryid": 14870,
+                                "operatemode": 1,
+                                "providercode": 104597,
+                                "groupno": "21-061-4881",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": "比PC端省900.00元",
+                                "exclusivemobile": "手机专享",
+                                "isexclusivemobile": true
+                            }
+                        },
+                        "height": 240,
+                        "width": 180,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/061/4881/GridImage/33777.jpg",
+                        "itemposition": "30000000|0|20013487|9|21-061-4881",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-061-4881",
+                        "sort": 9
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "",
+                    "floorid": 0,
+                    "floorname": ""
+                }
+            },
+            {
+                "templateid": 20010264,
+                "templatename": "爆款专区楼层尾",
+                "templatetype": "OneImg",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 801,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21015854",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 8,
+                    "width": 640,
+                    "imgname": "爆款专区楼层尾",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/af4bf976-1609-490d-ae40-282469454021.jpg",
+                    "itemposition": "30000000|0|20010264|1|21015854",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "",
+                    "floorid": 0,
+                    "floorname": ""
+                }
+            },
+            {
+                "templateid": 20005331,
+                "templatename": "本周推荐楼层头",
+                "templatetype": "FloorHead",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 2,
+                "sort": 800,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21008463",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "本周推荐楼层头",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/7814cb51-8b70-4d16-a524-ef26f345c27e.jpg",
+                    "itemposition": "30000000|20005331|20005331|1|21008463",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20005331,
+                    "floorname": "本周推荐楼层头"
+                }
+            },
+            {
+                "templateid": 20013460,
+                "templatename": "本周推荐1016",
+                "templatetype": "TwoImgAverage",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 785,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020287",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 206,
+                        "width": 319,
+                        "imgname": "名品",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/9c7f8727-b4e9-4469-8380-462db93776dd.png",
+                        "itemposition": "30000000|20005331|20013460|1|21020287",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E5%9B%B4%E5%B7%BE359%E5%85%83%E8%B5%B7&searchCondition=N%3D60539002&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020288",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 206,
+                        "width": 319,
+                        "imgname": "内衣",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/290c5ef7-db73-4b81-baa9-b5e9281315c8.png",
+                        "itemposition": "30000000|20005331|20013460|2|21020288",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%86%85%E8%A1%A3%E6%BB%A1299-20&searchCondition=N%3D50003483%26supid%3D103896&showtype=double",
+                        "sort": 2
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20005331,
+                    "floorname": "本周推荐楼层头"
+                }
+            },
+            {
+                "templateid": 20013461,
+                "templatename": "本周推荐1016",
+                "templatetype": "TwoImgAverage",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 784,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020290",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 206,
+                        "width": 319,
+                        "imgname": "配饰",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/636e17f7-bf5f-4509-95fe-771f1c4176a3.png",
+                        "itemposition": "30000000|20005331|20013461|1|21020290",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E7%A7%8B%E5%86%AC%E5%9B%B4%E9%A5%B0%20%E6%BD%AE%E6%B5%81%E6%90%AD%E9%85%8D&searchCondition=N%3D60805244&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020291",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 206,
+                        "width": 319,
+                        "imgname": "美妆",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/3181132c-abfd-467a-9032-13d0908de8f1.png",
+                        "itemposition": "30000000|20005331|20013461|2|21020291",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E7%A7%8B%E5%AD%A3%E8%A1%A5%E6%B0%B4%E6%AD%A3%E5%BD%93%E6%97%B6&searchCondition=N%3D50000220&showtype=double",
+                        "sort": 2
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20005331,
+                    "floorname": "本周推荐楼层头"
+                }
+            },
+            {
+                "templateid": 20000033,
+                "templatename": "手机专享-楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 700,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20005331,
+                    "floorname": "本周推荐楼层头"
+                }
+            },
+            {
+                "templateid": 20000006,
+                "templatename": "专柜同款楼层头",
+                "templatetype": "FloorHead",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 2,
+                "sort": 690,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21000015",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "头图",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/740439ff-4927-4e4b-a862-8d07048c4616.jpg",
+                    "itemposition": "30000000|20000006|20000006|1|21000015",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000006,
+                    "floorname": "专柜同款楼层头"
+                }
+            },
+            {
+                "templateid": 20013439,
+                "templatename": "喵货-专柜同款161014",
+                "templatetype": "ThreeImgLeftOne",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 610,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020260",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 302,
+                        "width": 319,
+                        "imgname": "图一",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/77bf9220-db9f-48f6-9ecc-a78492295cd0.jpg",
+                        "itemposition": "30000000|20000006|20013439|1|21020260",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E4%B8%93%E6%9F%9C%E5%90%8C%E6%AC%BE%E6%98%9F%E6%9C%9F%E5%85%AD&searchCondition=N%3D50000159%26supid%3D103829&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020261",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "图二",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/b2016446-e728-4035-8d39-ca083ea1cf4f.jpg",
+                        "itemposition": "30000000|20000006|20013439|2|21020261",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E4%B8%93%E6%9F%9C%E5%90%8C%E6%AC%BEJDV&searchCondition=N%3D10000667%2B50003300%26supid%3D104035&showtype=double",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21020262",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "图三",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/b3fb9bdd-3920-4748-9961-bf533ad83240.jpg",
+                        "itemposition": "30000000|20000006|20013439|3|21020262",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E4%B8%93%E6%9F%9C%E5%90%8C%E6%AC%BE%E8%BF%AA%E8%B5%9B%E5%B0%BC%E6%96%AF&searchCondition=N%3D50001387%26supid%3D104197&showtype=double",
+                        "sort": 3
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000006,
+                    "floorname": "专柜同款楼层头"
+                }
+            },
+            {
+                "templateid": 20013440,
+                "templatename": "喵货-专柜同款三并排1014",
+                "templatetype": "ThreeImgAbreast",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 609,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020263",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "图一",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/ddef7283-4889-412b-adfd-875a91a5c7c8.jpg",
+                        "itemposition": "30000000|20000006|20013440|1|21020263",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E4%B8%93%E6%9F%9C%E5%90%8C%E6%AC%BEEHE&searchCondition=N%3D50003274%26supid%3D104186&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020264",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "图二",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/6ccc4c02-1a0c-4067-a4e8-c4f328c27a90.jpg",
+                        "itemposition": "30000000|20000006|20013440|2|21020264",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E4%B8%93%E6%9F%9C%E5%90%8C%E6%AC%BE%E5%80%A9%E7%A2%A7&searchCondition=N%3D50003086%26supid%3D103901&showtype=double",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21020265",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "图三",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/4fec7ddc-2749-4e2c-a35f-b789ca858f86.jpg",
+                        "itemposition": "30000000|20000006|20013440|3|21020265",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E4%B8%93%E6%9F%9C%E5%90%8C%E6%AC%BEGMXY&searchCondition=N%EF%BC%9D50000609%26supid%3D180779&showtype=double",
+                        "sort": 3
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000006,
+                    "floorname": "专柜同款楼层头"
+                }
+            },
+            {
+                "templateid": 20013480,
+                "templatename": "奢品内购会-通栏",
+                "templatetype": "OneImg",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 600,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21020315",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 140,
+                    "width": 640,
+                    "imgname": "奢品",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/cd4dd3e1-8ac0-46c9-882f-97b418669f6d.jpg",
+                    "itemposition": "30000000|20000006|20013480|1|21020315",
+                    "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E9%92%88%E7%BB%87%E8%A1%AB679%E5%85%83%E8%B5%B7&searchCondition=N%3D60539004&showtype=double",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000006,
+                    "floorname": "专柜同款楼层头"
+                }
+            },
+            {
+                "templateid": 20000010,
+                "templatename": "专柜同款楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 600,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000006,
+                    "floorname": "专柜同款楼层头"
+                }
+            },
+            {
+                "templateid": 20000027,
+                "templatename": "海淘楼层头",
+                "templatetype": "FloorHead",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 2,
+                "sort": 599,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21000056",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "海淘馆",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/308eb702-4489-4f1a-9691-2b4c2402554b.jpg",
+                    "itemposition": "30000000|20000027|20000027|1|21000056",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000027,
+                    "floorname": "海淘楼层头"
+                }
+            },
+            {
+                "templateid": 20013356,
+                "templatename": "海淘馆10.16-10.25-1",
+                "templatetype": "TwoImgAverage",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 591,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020105",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "秋冬必备单品",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/898a8d90-c83c-49cd-8891-5e5ba49360bd.png",
+                        "itemposition": "30000000|20000027|20013356|1|21020105",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E5%A4%96%E5%A5%97&searchCondition=N%3D10001905&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020106",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "时尚又有型",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/e443e15f-7cd0-4271-adaf-2b52f5d42666.png",
+                        "itemposition": "30000000|20000027|20013356|2|21020106",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E9%92%88%E7%BB%87%E8%A1%AB&searchCondition=N%3D10001904&showtype=double",
+                        "sort": 2
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000027,
+                    "floorname": "海淘楼层头"
+                }
+            },
+            {
+                "templateid": 20013357,
+                "templatename": "海淘馆10.16-10.25-2",
+                "templatetype": "TwoImgAverage",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 590,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020107",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "时尚步调",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/6b75a9bf-74cc-4e8a-8f87-2689ab9b5da5.png",
+                        "itemposition": "30000000|20000027|20013357|1|21020107",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E9%9E%8B%E9%9D%B4&searchCondition=N%3D10001937%2B10002258&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020108",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "百搭裤装",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/de818113-9daa-4daf-807d-2adcc6b3b953.png",
+                        "itemposition": "30000000|20000027|20013357|2|21020108",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E8%A3%A4%E8%A3%85&searchCondition=N%3D10001906&showtype=double",
+                        "sort": 2
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000027,
+                    "floorname": "海淘楼层头"
+                }
+            },
+            {
+                "templateid": 20000030,
+                "templatename": "海淘楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 501,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000027,
+                    "floorname": "海淘楼层头"
+                }
+            },
+            {
+                "templateid": 20000026,
+                "templatename": "流行馆楼层头",
+                "templatetype": "FloorHead",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 2,
+                "sort": 499,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21000055",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "流行馆-头图",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/1235832a-765d-4dc1-9ea6-a22f6601837f.jpg",
+                    "itemposition": "30000000|20000026|20000026|1|21000055",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000026,
+                    "floorname": "流行馆楼层头"
+                }
+            },
+            {
+                "templateid": 20013473,
+                "templatename": "流行馆1016",
+                "templatetype": "ThreeImgLeftOne",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 489,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020305",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 302,
+                        "width": 319,
+                        "imgname": "康奈",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/93d8e314-aecf-4ab1-a44f-dc63b4c330d8.jpg",
+                        "itemposition": "30000000|20000026|20013473|1|21020305",
+                        "jumpurl": "yintaimobile://CustomProductList?Customlistid=3020&title=%E5%BA%B7%E5%A5%88&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020306",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "兰蔻",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/61af0f12-39d1-4006-a3f4-952ed9c9db38.jpg",
+                        "itemposition": "30000000|20000026|20013473|2|21020306",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%85%B0%E8%94%BB&searchCondition=N%3D50000224&showtype=double",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21020307",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "女装",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/820678e4-b002-4eba-a71d-87aee57f1e6d.jpg",
+                        "itemposition": "30000000|20000026|20013473|3|21020307",
+                        "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30001745&allowRefresh=1&title=%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92",
+                        "sort": 3
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000026,
+                    "floorname": "流行馆楼层头"
+                }
+            },
+            {
+                "templateid": 20013474,
+                "templatename": "流行馆1016-2",
+                "templatetype": "ThreeImgAbreast",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 487,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020308",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "婴童",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/a8762908-a7dc-4d4b-be89-a88851b0aa22.jpg",
+                        "itemposition": "30000000|20000026|20013474|1|21020308",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A9%B4%E7%AB%A5&searchCondition=N%3D50000675%2B50003313%2B50002313%2B50003354%2B50003467%2B50004410%2B50004428%2B50002332%2B50002358%2B50004305%2B50004316%2B50003975%2B50001216%2B10000818%2B8010050&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020309",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "运动-鬼冢虎",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/3a0ccb1d-befc-4e99-bee5-b1104a193fc5.jpg",
+                        "itemposition": "30000000|20000026|20013474|2|21020309",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E9%AC%BC%E5%86%A2%E8%99%8E&searchCondition=N%3D50000421%26supid%3D182956&showtype=double",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21020310",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "箱包",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/6fc4faf2-2e98-453e-8c34-aec77c07a6f8.jpg",
+                        "itemposition": "30000000|20000026|20013474|3|21020310",
+                        "jumpurl": "yintaimobile://AutoProductList?title=only&searchCondition=N%3D50003498%26P%3D87084&showtype=double",
+                        "sort": 3
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000026,
+                    "floorname": "流行馆楼层头"
+                }
+            },
+            {
+                "templateid": 20013475,
+                "templatename": "通栏",
+                "templatetype": "OneImg",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 486,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21020311",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 140,
+                    "width": 640,
+                    "imgname": "运动",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/7b35e2eb-8c93-42aa-a4c3-2863d59b7f2d.jpg",
+                    "itemposition": "30000000|20000026|20013475|1|21020311",
+                    "jumpurl": "yintaimobile://InnerH5?url=http%3A%2F%2Fm.yintai.com%2Fsales%2FActivitiesTemplate%3Fpageid%3D30001750&allowRefresh=1&title=%E8%BF%90%E5%8A%A8",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000026,
+                    "floorname": "流行馆楼层头"
+                }
+            },
+            {
+                "templateid": 20000028,
+                "templatename": "流行馆楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 401,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000026,
+                    "floorname": "流行馆楼层头"
+                }
+            },
+            {
+                "templateid": 20000029,
+                "templatename": "奢品馆楼层头",
+                "templatetype": "FloorHead",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 2,
+                "sort": 398,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21000057",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "奢品馆",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/4fa98bcb-c5ae-426c-9e08-b2b7cc1e48c8.jpg",
+                    "itemposition": "30000000|20000029|20000029|1|21000057",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000029,
+                    "floorname": "奢品馆楼层头"
+                }
+            },
+            {
+                "templateid": 20013374,
+                "templatename": " 奢品馆10.16-10.25-1",
+                "templatetype": "ThreeImgLeftOne",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 387,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020136",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 302,
+                        "width": 319,
+                        "imgname": "精选好货提前选",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/5515ec66-072f-4718-960f-9c1a897ee463.jpg",
+                        "itemposition": "30000000|20000029|20013374|1|21020136",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E7%B2%BE%E9%80%89%E5%A5%BD%E8%B4%A7&searchCondition=N%3D10001884%2B60722495&showtype=double",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020137",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "时髦不贵有腔调",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/fff616d7-438b-4010-9dc3-aa798cf20f95.jpg",
+                        "itemposition": "30000000|20000029|20013374|2|21020137",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E7%AE%B1%E5%8C%85&searchCondition=N%3D10001890%2B10001891&showtype=double",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21020138",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 150,
+                        "width": 319,
+                        "imgname": "腰间力量",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/1e7c7bbf-be08-4d2e-8b7c-c30101fba3b1.jpg",
+                        "itemposition": "30000000|20000029|20013374|3|21020138",
+                        "jumpurl": "yintaimobile://AutoProductList?title=%E5%A5%A2%E5%93%81%E8%85%B0%E5%B8%A6&searchCondition=N%3D10001908&showtype=double",
+                        "sort": 3
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000029,
+                    "floorname": "奢品馆楼层头"
+                }
+            },
+            {
+                "templateid": 20013375,
+                "templatename": "奢品馆10.16-10.25-2",
+                "templatetype": "ThreeImgAbreast",
+                "horizontalmargin": 0,
+                "padding": 2,
+                "bottommargin": 2,
+                "sort": 386,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21020139",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "KENZO男士卫衣",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/3f8ee1d1-d555-40dc-a913-e226a23fb7f0.jpg",
+                        "itemposition": "30000000|20000029|20013375|1|21020139",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-175-4955",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "21020140",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "MAX&CO女士风衣1269元",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/24de6879-2515-49a0-b03b-df041f699a63.jpg",
+                        "itemposition": "30000000|20000029|20013375|2|21020140",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-050-9132",
+                        "sort": 2
+                    },
+                    {
+                        "itemid": "21020141",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 0.0,
+                                "name": "",
+                                "price": 0.0,
+                                "prmotionlist": [],
+                                "brandid": 0,
+                                "categoryid": 0,
+                                "operatemode": 0,
+                                "providercode": 0,
+                                "groupno": null,
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 200,
+                        "width": 212,
+                        "imgname": "HUGO BOS休闲裤",
+                        "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/ab7aaa2b-7d6c-4121-96be-4a914531fb40.jpg",
+                        "itemposition": "30000000|20000029|20013375|3|21020141",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-099-0553",
+                        "sort": 3
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000029,
+                    "floorname": "奢品馆楼层头"
+                }
+            },
+            {
+                "templateid": 20000031,
+                "templatename": "奢品馆楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 301,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20000029,
+                    "floorname": "奢品馆楼层头"
+                }
+            },
+            {
+                "templateid": 20000036,
+                "templatename": "限时尊抢楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 200,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "",
+                    "floorid": 0,
+                    "floorname": ""
+                }
+            },
+            {
+                "templateid": 20003537,
+                "templatename": "精选好货-楼层头",
+                "templatetype": "FloorHead",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 2,
+                "sort": 10,
+                "requestdate": 1476993060237,
+                "items": [{
+                    "itemid": "21005444",
+                    "extra": {
+                        "seckillcountdowndate": 0,
+                        "productdetail": {
+                            "marketprice": 0.0,
+                            "name": "",
+                            "price": 0.0,
+                            "prmotionlist": [],
+                            "brandid": 0,
+                            "categoryid": 0,
+                            "operatemode": 0,
+                            "providercode": 0,
+                            "groupno": null,
+                            "ismiaowgoods": false,
+                            "savingamountdesc": null,
+                            "exclusivemobile": null,
+                            "isexclusivemobile": false
+                        }
+                    },
+                    "height": 50,
+                    "width": 640,
+                    "imgname": "精选好货",
+                    "imgurl": "http://yrs.yintai.com/rs/img/AppCMS/images/9d8c2501-8ea4-475b-8c97-c70a72c7d454.jpg",
+                    "itemposition": "30000000|20003537|20003537|1|21005444",
+                    "jumpurl": "yintaimobile://None",
+                    "sort": 1
+                }],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-937-7620",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1290.00,
+                                "name": "Lee李[043]男牛仔裤LMS706V06X62",
+                                "price": 499.00,
+                                "prmotionlist": [{
+                                    "name": "3.9折",
+                                    "plabel": "3.9折",
+                                    "pid": null
+                                }],
+                                "brandid": 304,
+                                "categoryid": 14202,
+                                "operatemode": 3,
+                                "providercode": 103870,
+                                "groupno": "20-937-7620",
+                                "ismiaowgoods": true,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/937/7620/BigImage/10033137489_1.jpg",
+                        "itemposition": "30000000|20003537|20013472|1|20-937-7620",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-937-7620",
+                        "sort": 1
+                    },
+                    {
+                        "itemid": "20-937-7595",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 990.00,
+                                "name": "Lee李[043]男牛仔裤LML724D01S25",
+                                "price": 399.00,
+                                "prmotionlist": [{
+                                    "name": "4.1折",
+                                    "plabel": "4.1折",
+                                    "pid": null
+                                }],
+                                "brandid": 304,
+                                "categoryid": 14202,
+                                "operatemode": 3,
+                                "providercode": 103870,
+                                "groupno": "20-937-7588",
+                                "ismiaowgoods": true,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/937/7588/BigImage/10033108945_1.jpg",
+                        "itemposition": "30000000|20003537|20013472|2|20-937-7595",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-937-7595",
+                        "sort": 2
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-027-7175",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 790.00,
+                                "name": "Lee李男裝牛仔裤LMS706Z021HL",
+                                "price": 553.00,
+                                "prmotionlist": [{
+                                    "name": "7折",
+                                    "plabel": "7折",
+                                    "pid": null
+                                }],
+                                "brandid": 304,
+                                "categoryid": 14202,
+                                "operatemode": 3,
+                                "providercode": 103870,
+                                "groupno": "21-027-7170",
+                                "ismiaowgoods": true,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/027/7170/BigImage/10037454039_1.jpg",
+                        "itemposition": "30000000|20003537|20013472|3|21-027-7175",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-027-7175",
+                        "sort": 3
+                    },
+                    {
+                        "itemid": "21-027-6122",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 990.00,
+                                "name": "Lee李男裝牛仔裤L11709P611FL",
+                                "price": 693.00,
+                                "prmotionlist": [{
+                                    "name": "7折",
+                                    "plabel": "7折",
+                                    "pid": null
+                                }],
+                                "brandid": 304,
+                                "categoryid": 14202,
+                                "operatemode": 3,
+                                "providercode": 103870,
+                                "groupno": "21-027-6121",
+                                "ismiaowgoods": true,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/027/6121/BigImage/10037454023_1.jpg",
+                        "itemposition": "30000000|20003537|20013472|4|21-027-6122",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-027-6122",
+                        "sort": 4
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-186-5072",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 999.00,
+                                "name": "（自营）New Balance 中性999系列复古鞋MRL999AH，40",
+                                "price": 799.00,
+                                "prmotionlist": [{
+                                    "name": "新百伦\t满299减30，可累计",
+                                    "plabel": "满减",
+                                    "pid": "87315"
+                                }],
+                                "brandid": 125,
+                                "categoryid": 14926,
+                                "operatemode": 1,
+                                "providercode": 100042,
+                                "groupno": "21-186-5066",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/186/5073/BigImage/22286.jpg",
+                        "itemposition": "30000000|20003537|20013472|5|21-186-5072",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-186-5072",
+                        "sort": 5
+                    },
+                    {
+                        "itemid": "21-186-5107",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 899.00,
+                                "name": "（自营）New Balance 中性580系列复古鞋MRT580JR，38.5",
+                                "price": 719.00,
+                                "prmotionlist": [{
+                                    "name": "新百伦\t满299减30，可累计",
+                                    "plabel": "满减",
+                                    "pid": "87315"
+                                }],
+                                "brandid": 125,
+                                "categoryid": 14926,
+                                "operatemode": 1,
+                                "providercode": 100042,
+                                "groupno": "21-186-5103",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/186/5110/BigImage/1228.jpg",
+                        "itemposition": "30000000|20003537|20013472|6|21-186-5107",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-186-5107",
+                        "sort": 6
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-862-3638",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1388.00,
+                                "name": "ROLEMODEL袋妍人静谧系列RMCL8806 20寸暮光灰 ABS+PC万向轮拉杆箱",
+                                "price": 199.00,
+                                "prmotionlist": [{
+                                    "name": "袋妍人 时尚潮流拉杆箱",
+                                    "plabel": "特卖",
+                                    "pid": "22864"
+                                }],
+                                "brandid": 2897,
+                                "categoryid": 13935,
+                                "operatemode": 2,
+                                "providercode": 101836,
+                                "groupno": "20-862-3638",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/862/3638/BigImage/43422.jpg",
+                        "itemposition": "30000000|20003537|20013472|7|20-862-3638",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-862-3638",
+                        "sort": 7
+                    },
+                    {
+                        "itemid": "20-901-9569",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1080.00,
+                                "name": "ONLY 2016秋季新款可爱米奇双肩包卡通个性背包女韩版潮休闲书包099",
+                                "price": 238.00,
+                                "prmotionlist": [{
+                                    "name": "箱包狂欢PARTY 满99减20 可累计",
+                                    "plabel": "满减",
+                                    "pid": "87084"
+                                }],
+                                "brandid": 3498,
+                                "categoryid": 13637,
+                                "operatemode": 3,
+                                "providercode": 104550,
+                                "groupno": "20-901-9569",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/901/9569/BigImage/yintai_ab1808ef-7b70-4114-a0d1-4be305f9a5d0.jpg",
+                        "itemposition": "30000000|20003537|20013472|8|20-901-9569",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-901-9569",
+                        "sort": 8
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-913-6811",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1198.00,
+                                "name": "（自营）ELLE女士针纹牛皮铆钉单肩斜跨包TM151S60287RD红色",
+                                "price": 599.00,
+                                "prmotionlist": [{
+                                    "name": "5折",
+                                    "plabel": "5折",
+                                    "pid": null
+                                }],
+                                "brandid": 464,
+                                "categoryid": 14892,
+                                "operatemode": 1,
+                                "providercode": 100485,
+                                "groupno": "20-913-6810",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/913/6811/BigImage/22936.jpg",
+                        "itemposition": "30000000|20003537|20013472|9|20-913-6811",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-913-6811",
+                        "sort": 9
+                    },
+                    {
+                        "itemid": "21-175-7679",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 3150.00,
+                                "name": "【自营】KENZO PARIS浅花灰色纯羊毛拼色边男士毛衣,PU2023AB  95,S",
+                                "price": 2350.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 282,
+                                "categoryid": 14219,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-175-7679",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/175/7679/BigImage/53250.jpg",
+                        "itemposition": "30000000|20003537|20013472|10|21-175-7679",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-175-7679",
+                        "sort": 10
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-206-9460",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 2950.00,
+                                "name": "【自营】Z ZEGNA藏青色纯羊毛V领男士套头针织衫,VLP12 B09 KNIT,S",
+                                "price": 2200.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 541,
+                                "categoryid": 14219,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-206-9460",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/206/9460/BigImage/56840.jpg",
+                        "itemposition": "30000000|20003537|20013472|11|21-206-9460",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-206-9460",
+                        "sort": 11
+                    },
+                    {
+                        "itemid": "21-146-0831",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 9600.00,
+                                "name": "【自营】‘S MAX MARA深蓝色纯羊毛镶边装饰女士中长款大衣,OPALE 014,38",
+                                "price": 6489.00,
+                                "prmotionlist": [{
+                                    "name": "手机专享10.16-10.25",
+                                    "plabel": "直降",
+                                    "pid": "87086"
+                                }],
+                                "brandid": 1052,
+                                "categoryid": 14379,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-146-0831",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": "比PC端省561.00元",
+                                "exclusivemobile": "手机专享",
+                                "isexclusivemobile": true
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/146/0831/BigImage/52672.jpg",
+                        "itemposition": "30000000|20003537|20013472|12|21-146-0831",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-146-0831",
+                        "sort": 12
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-165-6410",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 2800.00,
+                                "name": "【自营】KENZO paris玫红色纯棉虎头刺绣女士卫衣,2SW705 4XJ,30 ,XS",
+                                "price": 2100.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 282,
+                                "categoryid": 14372,
+                                "operatemode": 1,
+                                "providercode": 102016,
+                                "groupno": "21-165-6410",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/165/6410/BigImage/56241.jpg",
+                        "itemposition": "30000000|20003537|20013472|13|21-165-6410",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-165-6410",
+                        "sort": 13
+                    },
+                    {
+                        "itemid": "21-207-0330",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 8600.00,
+                                "name": "【自营】ZEGNA杰尼亚黑色牛皮材质纯色男士手拿包,C1197X CBS NER (Black)  MAN BORSE -",
+                                "price": 6450.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 541,
+                                "categoryid": 13928,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-207-0330",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/207/0330/BigImage/821.jpg",
+                        "itemposition": "30000000|20003537|20013472|14|21-207-0330",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-207-0330",
+                        "sort": 14
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-207-0115",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 6300.00,
+                                "name": "【自营】BURBERRY巴宝莉藏青色尼龙材质经典格纹包身男士双肩包,4021879 NAVY CHECK ABBEYDALE NCH:ABWFG: 4100  MAN BORSE -",
+                                "price": 4750.00,
+                                "prmotionlist": [{
+                                    "name": "7.6折",
+                                    "plabel": "7.6折",
+                                    "pid": null
+                                }],
+                                "brandid": 270,
+                                "categoryid": 13637,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-207-0115",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/207/0115/BigImage/1054.jpg",
+                        "itemposition": "30000000|20003537|20013472|15|21-207-0115",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-207-0115",
+                        "sort": 15
+                    },
+                    {
+                        "itemid": "21-210-1069",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 5200.00,
+                                "name": "【自营】BALLY巴利深灰色牛皮材质系带设计镂空元素男士中帮板鞋,HEKEM/25 DARK GREY 15 SHOES MAN 6",
+                                "price": 3900.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 368,
+                                "categoryid": 13676,
+                                "operatemode": 1,
+                                "providercode": 104597,
+                                "groupno": "21-210-1069",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/210/1069/BigImage/10228.jpg",
+                        "itemposition": "30000000|20003537|20013472|16|21-210-1069",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-210-1069",
+                        "sort": 16
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-186-7137",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 2200.00,
+                                "name": "【自营】AJ ARMANI JEANS黑色混合材质车缝线元素女士系带松糕鞋,925082 00020 NERO 6A474  WOMAN SCARPE 35",
+                                "price": 1650.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 887,
+                                "categoryid": 13659,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-186-7139",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/186/7139/BigImage/55822.jpg",
+                        "itemposition": "30000000|20003537|20013472|17|21-186-7137",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-186-7137",
+                        "sort": 17
+                    },
+                    {
+                        "itemid": "21-206-9321",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 3600.00,
+                                "name": "【自营】BURBERRY巴宝莉棕色混合材质格纹样式男士围巾,4004196 CAMEL M TONAL LTW CK S:AARVP:2,MAN,TU",
+                                "price": 2700.00,
+                                "prmotionlist": [{
+                                    "name": "7.5折",
+                                    "plabel": "7.5折",
+                                    "pid": null
+                                }],
+                                "brandid": 270,
+                                "categoryid": 14870,
+                                "operatemode": 1,
+                                "providercode": 102224,
+                                "groupno": "21-206-9321",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/206/9321/BigImage/38457.jpg",
+                        "itemposition": "30000000|20003537|20013472|18|21-206-9321",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-206-9321",
+                        "sort": 18
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-193-4775",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 3800.00,
+                                "name": "GUCCI古琦红色羊毛材质logo花朵样式女士围巾,415469,3G200,9972,    U",
+                                "price": 3050.00,
+                                "prmotionlist": [{
+                                    "name": "8.1折",
+                                    "plabel": "8.1折",
+                                    "pid": null
+                                }],
+                                "brandid": 455,
+                                "categoryid": 14870,
+                                "operatemode": 1,
+                                "providercode": 104600,
+                                "groupno": "21-193-4775",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/193/4775/BigImage/16758.jpg",
+                        "itemposition": "30000000|20003537|20013472|19|21-193-4775",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-193-4775",
+                        "sort": 19
+                    },
+                    {
+                        "itemid": "21-179-3864",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1755.00,
+                                "name": "France奈绮儿牛皮粗跟短靴X5-404",
+                                "price": 398.00,
+                                "prmotionlist": [{
+                                    "name": "2.3折",
+                                    "plabel": "2.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 2938,
+                                "categoryid": 13663,
+                                "operatemode": 3,
+                                "providercode": 104372,
+                                "groupno": "21-179-3858",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/179/3864/BigImage/yintai_87b490a5-c167-4bad-9559-9c292b771b7f.jpg",
+                        "itemposition": "30000000|20003537|20013472|20|21-179-3864",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-179-3864",
+                        "sort": 20
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-189-5517",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 968.00,
+                                "name": "Belle/百丽2016秋新品黑经典百搭牛皮革女单鞋898-1CM6,36",
+                                "price": 398.00,
+                                "prmotionlist": [{
+                                    "name": "4.2折",
+                                    "plabel": "4.2折",
+                                    "pid": null
+                                }],
+                                "brandid": 149,
+                                "categoryid": 13659,
+                                "operatemode": 2,
+                                "providercode": 101234,
+                                "groupno": "21-189-5506",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/189/5514/BigImage/3094.jpg",
+                        "itemposition": "30000000|20003537|20013472|21|21-189-5517",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-189-5517",
+                        "sort": 21
+                    },
+                    {
+                        "itemid": "21-189-5428",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1168.00,
+                                "name": "Belle/百丽2016秋季黑色牛皮男单鞋A765ACM6,39",
+                                "price": 498.00,
+                                "prmotionlist": [{
+                                    "name": "4.3折",
+                                    "plabel": "4.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 149,
+                                "categoryid": 13676,
+                                "operatemode": 2,
+                                "providercode": 101234,
+                                "groupno": "21-189-5418",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/189/5426/BigImage/41248.jpg",
+                        "itemposition": "30000000|20003537|20013472|22|21-189-5428",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-189-5428",
+                        "sort": 22
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-974-0986",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 2290.00,
+                                "name": "NINE WEST玖熙欧美时尚金属扣式锯齿中跟方跟短靴 绒面翻边圆头女靴",
+                                "price": 690.00,
+                                "prmotionlist": [{
+                                    "name": "活动价，还全场满799减50，不累计",
+                                    "plabel": "满减",
+                                    "pid": "87305"
+                                }],
+                                "brandid": 147,
+                                "categoryid": 13663,
+                                "operatemode": 3,
+                                "providercode": 183214,
+                                "groupno": "20-974-0984",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/974/0984/BigImage/yintai_58c0ddb8-7e81-4ac2-8840-a1d00f8349ac.jpg",
+                        "itemposition": "30000000|20003537|20013472|23|20-974-0986",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-974-0986",
+                        "sort": 23
+                    },
+                    {
+                        "itemid": "20-932-0183",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 5280.00,
+                                "name": "RIMOWA里莫瓦 SALSA AIR 旅行箱 轻盈炫彩行李箱托运箱拉杆箱30寸",
+                                "price": 5121.00,
+                                "prmotionlist": [{
+                                    "name": "9.7折",
+                                    "plabel": "9.7折",
+                                    "pid": null
+                                }],
+                                "brandid": 3929,
+                                "categoryid": 13935,
+                                "operatemode": 3,
+                                "providercode": 184045,
+                                "groupno": "20-932-0182",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/932/0183/BigImage/yintai_cfc6e1ff-18d8-47bf-9167-da3f00fdd03c.jpg",
+                        "itemposition": "30000000|20003537|20013472|24|20-932-0183",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-932-0183",
+                        "sort": 24
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-693-6923",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1600.00,
+                                "name": "LONGCHAMP珑骧女士藕荷色大号折叠尼龙LePliage单肩手提包1899089619（节、假日不发货）",
+                                "price": 889.00,
+                                "prmotionlist": [{
+                                    "name": "5.6折",
+                                    "plabel": "5.6折",
+                                    "pid": null
+                                }],
+                                "brandid": 3381,
+                                "categoryid": 13639,
+                                "operatemode": 2,
+                                "providercode": 104289,
+                                "groupno": "20-693-6923",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/693/6923/BigImage/55840.jpg",
+                        "itemposition": "30000000|20003537|20013472|25|20-693-6923",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-693-6923",
+                        "sort": 25
+                    },
+                    {
+                        "itemid": "20-840-6630",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 599.00,
+                                "name": "（自营）JESSIE＆JANE及简通勤休闲女士单肩包斜挎包TMJ15FF1176RD红色",
+                                "price": 299.00,
+                                "prmotionlist": [{
+                                    "name": "JESSIE&JANE决堤而出形色出格",
+                                    "plabel": "特卖",
+                                    "pid": "22826"
+                                }],
+                                "brandid": 2949,
+                                "categoryid": 13636,
+                                "operatemode": 1,
+                                "providercode": 100485,
+                                "groupno": "20-840-6627",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/840/6630/BigImage/28088.jpg",
+                        "itemposition": "30000000|20003537|20013472|26|20-840-6630",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-840-6630",
+                        "sort": 26
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-112-6602",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 278.00,
+                                "name": "子初婴儿洗护套装礼盒宝宝洗护用品新生婴儿秋冬必备护肤品套装",
+                                "price": 89.00,
+                                "prmotionlist": [{
+                                    "name": "3.3折",
+                                    "plabel": "3.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 4433,
+                                "categoryid": 14123,
+                                "operatemode": 3,
+                                "providercode": 188478,
+                                "groupno": "21-112-6602",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/112/6602/BigImage/yintai_09bfa7c0-c656-4c6e-8a6f-c98eb1a8ae7f.jpg",
+                        "itemposition": "30000000|20003537|20013472|27|21-112-6602",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-112-6602",
+                        "sort": 27
+                    },
+                    {
+                        "itemid": "21-198-8238",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 628.00,
+                                "name": "十月妈咪孕妇装 秋季 连衣裙长袖韩版时尚圆领针织卡通印花孕妇裙",
+                                "price": 376.80,
+                                "prmotionlist": [{
+                                    "name": "直降6折",
+                                    "plabel": "直降",
+                                    "pid": "87098"
+                                }],
+                                "brandid": 1432,
+                                "categoryid": 14186,
+                                "operatemode": 3,
+                                "providercode": 185775,
+                                "groupno": "21-198-8237",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": "比PC端省22.20元",
+                                "exclusivemobile": "手机专享",
+                                "isexclusivemobile": true
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/198/8238/BigImage/yintai_7e362b4b-cd3f-4843-b38f-47ac5b16d8c9.jpg",
+                        "itemposition": "30000000|20003537|20013472|28|21-198-8238",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-198-8238",
+                        "sort": 28
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-209-8985",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 5980.00,
+                                "name": "茵佳兰迪INPLUS-LADY2016新款手工双面羊绒大衣羊毛加长款欧美大衣8320",
+                                "price": 1280.00,
+                                "prmotionlist": [{
+                                    "name": "2.2折",
+                                    "plabel": "2.2折",
+                                    "pid": null
+                                }],
+                                "brandid": 3479,
+                                "categoryid": 14379,
+                                "operatemode": 3,
+                                "providercode": 104532,
+                                "groupno": "21-209-8979",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/209/8985/BigImage/yintai_e0bb6c2c-0165-4327-a11f-e6b15c86dea2.jpg",
+                        "itemposition": "30000000|20003537|20013472|29|21-209-8985",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-209-8985",
+                        "sort": 29
+                    },
+                    {
+                        "itemid": "21-209-4055",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 550.00,
+                                "name": "BEAUTY SAID圆领撞色针织套头衫B3068",
+                                "price": 158.00,
+                                "prmotionlist": [{
+                                    "name": "10.16-10.25秋冬新品特惠，满99-30",
+                                    "plabel": "满减",
+                                    "pid": "87131"
+                                }],
+                                "brandid": 4483,
+                                "categoryid": 14382,
+                                "operatemode": 3,
+                                "providercode": 188658,
+                                "groupno": "21-209-4041",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/209/4053/BigImage/yintai_49cc4564-6ccf-4a5f-8977-39f616ce7ff5.jpg",
+                        "itemposition": "30000000|20003537|20013472|30|21-209-4055",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-209-4055",
+                        "sort": 30
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-199-6106",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 599.00,
+                                "name": "breadnbutter七分袖针织衫钉珠上衣",
+                                "price": 259.00,
+                                "prmotionlist": [{
+                                        "name": "限时促销",
+                                        "plabel": "满减",
+                                        "pid": "87339"
+                                    },
+                                    {
+                                        "name": "限时促销",
+                                        "plabel": "直降",
+                                        "pid": "87337"
+                                    }
+                                ],
+                                "brandid": 4595,
+                                "categoryid": 14382,
+                                "operatemode": 3,
+                                "providercode": 189367,
+                                "groupno": "21-199-6105",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/199/6105/BigImage/yintai_dd8b8de5-82c0-4f6d-a5ed-d305eaafd327.jpg",
+                        "itemposition": "30000000|20003537|20013472|31|21-199-6106",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-199-6106",
+                        "sort": 31
+                    },
+                    {
+                        "itemid": "21-199-7747",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1899.00,
+                                "name": "bread n butterPOLO领毛呢外套长袖长外套",
+                                "price": 998.00,
+                                "prmotionlist": [{
+                                        "name": "限时促销",
+                                        "plabel": "满减",
+                                        "pid": "87339"
+                                    },
+                                    {
+                                        "name": "限时促销",
+                                        "plabel": "直降",
+                                        "pid": "87337"
+                                    }
+                                ],
+                                "brandid": 4595,
+                                "categoryid": 14379,
+                                "operatemode": 3,
+                                "providercode": 189367,
+                                "groupno": "21-199-7746",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/199/7746/BigImage/yintai_45bc7fcb-3c78-4351-8278-3f280fcc6336.jpg",
+                        "itemposition": "30000000|20003537|20013472|32|21-199-7747",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-199-7747",
+                        "sort": 32
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-734-9240",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 972.00,
+                                "name": "【潮宏基】珠宝 吉祥如意 足金福包黄金项链挂坠 足金黄金吊坠 计价",
+                                "price": 972.00,
+                                "prmotionlist": [{
+                                    "name": "不可使用全场优惠券",
+                                    "plabel": "特例",
+                                    "pid": "0"
+                                }],
+                                "brandid": 361,
+                                "categoryid": 14726,
+                                "operatemode": 3,
+                                "providercode": 104391,
+                                "groupno": "20-734-9238",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/734/9240/BigImage/yintai_1aba55cb-3d58-4bba-be47-8d11a7a912be.jpg",
+                        "itemposition": "30000000|20003537|20013472|33|20-734-9240",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-734-9240",
+                        "sort": 33
+                    },
+                    {
+                        "itemid": "21-169-4311",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 359.00,
+                                "name": "顶瓜瓜 粉黛含韵女士内衣套装 DNLWD-T77007",
+                                "price": 139.00,
+                                "prmotionlist": [{
+                                    "name": "3.9折",
+                                    "plabel": "3.9折",
+                                    "pid": null
+                                }],
+                                "brandid": 776,
+                                "categoryid": 14323,
+                                "operatemode": 3,
+                                "providercode": 104353,
+                                "groupno": "21-169-4303",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/169/4311/BigImage/yintai_5d6fe1da-21d3-467d-95f5-ce83f29bd8bc.jpg",
+                        "itemposition": "30000000|20003537|20013472|34|21-169-4311",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-169-4311",
+                        "sort": 34
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "20-859-8454",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 218.00,
+                                "name": "棉花共和国成熟魅力男士棉质中筒袜五双装02191427",
+                                "price": 141.00,
+                                "prmotionlist": [{
+                                    "name": "任性节任性返场 跨品牌满199-100 上不封顶",
+                                    "plabel": "满减",
+                                    "pid": "86760"
+                                }],
+                                "brandid": 333,
+                                "categoryid": 14325,
+                                "operatemode": 3,
+                                "providercode": 104585,
+                                "groupno": "20-859-8454",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/859/8454/BigImage/yintai_270f08ae-d2a6-4150-9955-bd401ee3c845.jpg",
+                        "itemposition": "30000000|20003537|20013472|35|20-859-8454",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-859-8454",
+                        "sort": 35
+                    },
+                    {
+                        "itemid": "21-207-7251",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 369.00,
+                                "name": "多拉美女士睡衣秋冬季珊瑚绒星星字母休闲家居服套装",
+                                "price": 158.00,
+                                "prmotionlist": [{
+                                    "name": "4.3折",
+                                    "plabel": "4.3折",
+                                    "pid": null
+                                }],
+                                "brandid": 4338,
+                                "categoryid": 14328,
+                                "operatemode": 3,
+                                "providercode": 187126,
+                                "groupno": "21-207-7251",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/207/7251/BigImage/yintai_a80312e4-ddb0-41d6-8174-15274630a690.jpg",
+                        "itemposition": "30000000|20003537|20013472|36|21-207-7251",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-207-7251",
+                        "sort": 36
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-159-2313",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 6090.00,
+                                "name": "ANDREW MARC MNY系列 2016秋冬新款男士外套立领打格皮衣夹克 2251",
+                                "price": 1699.00,
+                                "prmotionlist": [{
+                                    "name": "2.8折",
+                                    "plabel": "2.8折",
+                                    "pid": null
+                                }],
+                                "brandid": 3438,
+                                "categoryid": 14223,
+                                "operatemode": 3,
+                                "providercode": 104484,
+                                "groupno": "21-159-2313",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/159/2313/BigImage/yintai_703b15c6-f2ef-4996-b8d8-c7ecf9e3e80a.jpg",
+                        "itemposition": "30000000|20003537|20013472|37|21-159-2313",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-159-2313",
+                        "sort": 37
+                    },
+                    {
+                        "itemid": "21-206-8560",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 3590.00,
+                                "name": "ANDREWMARC纯色毛呢真皮拼接修身短款毛呢夹克时尚休闲 001",
+                                "price": 899.00,
+                                "prmotionlist": [{
+                                    "name": "2.6折",
+                                    "plabel": "2.6折",
+                                    "pid": null
+                                }],
+                                "brandid": 3438,
+                                "categoryid": 14223,
+                                "operatemode": 3,
+                                "providercode": 104484,
+                                "groupno": "21-206-8558",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/206/8558/BigImage/yintai_8f0c8746-462a-40da-a560-7ed3914eaf75.jpg",
+                        "itemposition": "30000000|20003537|20013472|38|21-206-8560",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-206-8560",
+                        "sort": 38
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20013472,
+                "templatename": "精选好货1016-1021",
+                "templatetype": "ProductDoubleColumn",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 0,
+                "sort": 6,
+                "requestdate": 1476993060237,
+                "items": [{
+                        "itemid": "21-205-2230",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 4990.00,
+                                "name": "ANDREWMARC新款真皮皮衣男立领绵羊皮修身青年皮夹克外套 1560",
+                                "price": 1299.00,
+                                "prmotionlist": [{
+                                    "name": "手机专享",
+                                    "plabel": "直降",
+                                    "pid": "87292"
+                                }],
+                                "brandid": 3438,
+                                "categoryid": 14223,
+                                "operatemode": 3,
+                                "providercode": 104484,
+                                "groupno": "21-205-2230",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": "比PC端省600.00元",
+                                "exclusivemobile": "手机专享",
+                                "isexclusivemobile": true
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/21/205/2230/BigImage/yintai_db440fff-2d70-4888-a0b5-092ca501ff11.jpg",
+                        "itemposition": "30000000|20003537|20013472|39|21-205-2230",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=21-205-2230",
+                        "sort": 39
+                    },
+                    {
+                        "itemid": "20-928-1837",
+                        "extra": {
+                            "seckillcountdowndate": 0,
+                            "productdetail": {
+                                "marketprice": 1999.00,
+                                "name": "IZOD男士冬季连帽保暖白鸭绒羽绒服外套",
+                                "price": 449.00,
+                                "prmotionlist": [{
+                                        "name": "全场满299减30，可累计",
+                                        "plabel": "满减",
+                                        "pid": "87235"
+                                    },
+                                    {
+                                        "name": "秋冬暖心购-APP",
+                                        "plabel": "直降",
+                                        "pid": "87234"
+                                    }
+                                ],
+                                "brandid": 765,
+                                "categoryid": 14224,
+                                "operatemode": 3,
+                                "providercode": 104482,
+                                "groupno": "20-896-5612",
+                                "ismiaowgoods": false,
+                                "savingamountdesc": null,
+                                "exclusivemobile": null,
+                                "isexclusivemobile": false
+                            }
+                        },
+                        "height": 360,
+                        "width": 270,
+                        "imgname": null,
+                        "imgurl": "http://p10.ytrss.com/product/20/928/1836/BigImage/yintai_ad1f21f0-a560-496d-aeee-14ba99c4793f.jpg",
+                        "itemposition": "30000000|20003537|20013472|40|20-928-1837",
+                        "jumpurl": "yintaimobile://GeneralProductDetial?sku=20-928-1837",
+                        "sort": 40
+                    }
+                ],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            },
+            {
+                "templateid": 20000017,
+                "templatename": "精选好货-楼层尾",
+                "templatetype": "FloorFoot",
+                "horizontalmargin": 0,
+                "padding": 0,
+                "bottommargin": 10,
+                "sort": 3,
+                "requestdate": 1476993060237,
+                "items": [],
+                "floorinfo": {
+                    "floorbgcolor": "#f1f1f1",
+                    "floorid": 20003537,
+                    "floorname": "精选好货-楼层头"
+                }
+            }
+        ]
+    }
+}

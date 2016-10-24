@@ -1,0 +1,144 @@
+.my {
+    width: 100%;
+    height: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    .my-title {
+        width: 100%;
+        height: 50px;
+        h2 {
+            text-align: center;
+            line-height: 50px;
+            font-size: 1.5em;
+        }
+    }
+    .my-main {
+        @include flex(1);
+        width: 100%;
+        overflow: hidden;
+        .my-scroll {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            .my-scrolls {
+                .my-main-title {
+                    height: 120px;
+                    width: 100%;
+                    background: #FF7BA9;
+                    .my-notlogo {
+                        width: 100%;
+                        height: 100%;
+                        h2 {
+                            text-align: center;
+                            color: #fff;
+                            font-weight: 800;
+                            font-size: 1.3em;
+                            line-height: 40px;
+                        }
+                        button {
+                            width: 30%;
+                            height: 40px;
+                            border: 0;
+                            background: #FF7BA9;
+                            @include border(3px, solid, #fff, 5px);
+                            margin-left: 35%;
+                            margin-top: 2%;
+                            color: #Fff;
+                            font-weight: 600;
+                            font-size: 1.2em;
+                        }
+                    }
+                    .my-logo {
+                        width: 100%;
+                        height: 100%;
+                        .my-logotop {
+                            @include flexbox();
+                            @include flex-direction(row);
+                            padding-top: 10px;
+                            b {
+                                @include flex(1);
+                            }
+                            span {
+                                @include flex(1);
+                                text-align: right;
+                                padding-right: 10px;
+                                font-size: 0.9em;
+                            }
+                            img {
+                                @include flex(2);
+                                @include border(1px, solid, #FF7BA9, 50px);
+                                height: 75px;
+                                width: 75px;
+                                max-width: 75px;
+                            }
+                        }
+                        .user {
+                            text-align: center;
+                            display: block;
+                            width: 100%;
+                            margin-top: 5px;
+                            color: #fff;
+                        }
+                    }
+                }
+                .my-mains {
+                    width: 100%;
+                    .my-logolist {
+                        width: 100%;
+                        height: 60px;
+                        border-bottom: 1px solid #D5D5D5;
+                        @include flexbox();
+                        @include flex-direction(row);
+                        margin-left: -1px;
+                        li {
+                            height: 100%;
+                            @include flex();
+                            span {
+                                margin-top: 10%;
+                                width: 100%;
+                                height: 70%;
+                                display: block;
+                                border-left: 1px solid #D5D5D5;
+                                text-align: center;
+                                b {
+                                    display: block;
+                                    width: 100%;
+                                }
+                                i {
+                                    display: block;
+                                    width: 100%;
+                                }
+                                .iconsizes {
+                                    margin-top: -10%;
+                                    font-weight: 200;
+                                    font-size: 25px;
+                                }
+                            }
+                        }
+                    }
+                    .my-hr {
+                        width: 100%;
+                        background: #F1F1F1;
+                        height: 10px;
+                        border-bottom: 1px solid #D5D5D5;
+                    }
+                    .my-list1 {
+                        width: 100%;
+                        height: 60px;
+                        @include flexbox();
+                        @include flex-direction(row);
+                        li {
+                            @include flex();
+                            list-style: none;
+                            text-align: center;
+                            .iconsizes {
+                                font-size: 23px;
+                                padding-right: 5px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

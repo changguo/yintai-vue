@@ -1,0 +1,129 @@
+@import "./index-header.scss";
+.classes {
+    height: 100%;
+    width: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    .classesmain {
+        @include flex();
+        width: 100%;
+        @include flexbox();
+        @include flex-direction(row);
+        .classleft {
+            @include flex(1);
+            height: 100%;
+            z-index: 9;
+            ul {
+                width: 100%;
+                height: 100%;
+                @include flexbox();
+                @include flex-direction(column);
+                background: #F5F5F5;
+                .active {
+                    color: #E5004F;
+                    background: #fff;
+                }
+                li {
+                    @include flex();
+                    width: 100%;
+                    @include flexbox();
+                    @include align-items(center);
+                    @include justify-content(center);
+                    border-right: 1px solid #DCDCDC;
+                    font-weight: 600;
+                    color: #333333;
+                }
+            }
+        }
+        .classright {
+            @include flex(3);
+            height: 100%;
+            .rightswiper {
+                width: 100%;
+                height: 100%;
+                .swiper-slide {
+                    width: 100%;
+                    height: 100%;
+                    overflow: hidden;
+                    .rightswipermain {
+                        width: 100%;
+                        .rightswipermian-list {
+                            width: 100%;
+                            .right-list-title {
+                                width: 100%;
+                                background: url('http://r.ytrss.com/mobile/img/category-area-title@3x.png') no-repeat;
+                                background-size: contain;
+                                display: flex;
+                                flex-direction: column;
+                                span {
+                                    text-align: center;
+                                    @include justify-content(center);
+                                    font-weight: 500;
+                                    color: #7A7A7A;
+                                }
+                            }
+                            .right-Recommend {
+                                width: 100%;
+                                @include flexbox();
+                                @include flex-direction(row);
+                                @include flex-wrap(wrap);
+                                div {
+                                    @include flex();
+                                    max-width: 33%;
+                                    min-width: 33%;
+                                    img {
+                                        width: 80%;
+                                        margin-left: 10%;
+                                    }
+                                    span {
+                                        display: block;
+                                        width: 100%;
+                                        text-align: center;
+                                    }
+                                }
+                            }
+                            .right-brand {
+                                width: 100%;
+                                @include flexbox();
+                                @include flex-direction(row);
+                                @include flex-wrap(wrap);
+                                div {
+                                    @include flex();
+                                    max-width: 30%;
+                                    min-width: 30%;
+                                    @include border(3px,
+                                    solid,
+                                    #F6F6F6);
+                                    margin: 1.5%;
+                                    img {
+                                        width: 80%;
+                                        margin-left: 10%;
+                                    }
+                                }
+                            }
+                            .right-more {
+                                width: 100%;
+                                @include flexbox();
+                                @include flex-direction(row);
+                                @include flex-wrap(wrap);
+                                div {
+                                    @include flex();
+                                    max-width: 33%;
+                                    min-width: 33%;
+                                    span {
+                                        display: block;
+                                        width: 100%;
+                                        text-align: center;
+                                        font-size: 1.2em;
+                                        color: #666666;
+                                        font-weight: 500;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
