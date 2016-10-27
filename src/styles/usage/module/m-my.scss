@@ -124,21 +124,72 @@
                     }
                     .my-list1 {
                         width: 100%;
-                        height: 60px;
+                        height: 40px;
                         @include flexbox();
                         @include flex-direction(row);
+                        border-bottom: 1px solid #D5D5D5;
                         li {
                             @include flex();
                             list-style: none;
                             text-align: center;
+                            line-height: 40px;
+                            b {
+                                font-weight: 300;
+                            }
                             .iconsizes {
                                 font-size: 23px;
                                 padding-right: 5px;
+                                font-weight: 300;
+                            }
+                            &:nth-child(1) {
+                                border-right: 1px solid #D5D5D5;
                             }
                         }
                     }
+                    .my-listone {
+                        @include flexbox();
+                        @include flex-direction(row);
+                        margin-left: 3%;
+                        margin-right: 3%;
+                        height: 40px;
+                        line-height: 40px;
+                        font-size: 1.2em;
+                        span {
+                            @include flex();
+                            color: #D0D0D0;
+                        }
+                        b {
+                            @include flex(7);
+                            font-weight: 300;
+                        }
+                        i {
+                            font-weight: 300;
+                            @include flex(9);
+                            strong {
+                                color: #E92367;
+                                margin-right: 5px;
+                                float: right;
+                                font-style: normal;
+                            }
+                            label {
+                                float: right;
+                            }
+                        }
+                    }
+                    .my-button {
+                        height: 40px;
+                        width: 100%;
+                        text-align: center;
+                        color: #E92367;
+                        font-size: 1.2em;
+                        font-weight: 500;
+                        line-height: 40px;
+                    }
                 }
             }
+        }
+        .borderbuttom {
+            border-bottom: 1px solid #D5D5D5;
         }
     }
 }

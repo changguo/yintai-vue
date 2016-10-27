@@ -36,6 +36,69 @@
 							<li><span><b class="iconfont iconsizes">&#xe601;</b><i>待收货</i></span></li>
 							<li><span><b class="iconfont iconsizes">&#xe602;</b><i>退换货</i></span></li>
 						</ul>
+                        <ul class="my-list1">
+                            <li><i class="iconfont iconsizes">&#xe605;</i><b>收藏</b></li>
+                            <li><i class="iconfont iconsizes">&#xe604;</i><b>浏览记录</b></li>
+                        </ul>
+                        <div class="my-hr"></div>
+                        <div class="my-listone">
+                            <b>银泰门店会员中心</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-hr"></div>
+                           <div class="my-listone">
+                            <b>账号与安全</b>
+                            <i></i>
+                            <span class="iconfont"></span>
+                        </div>
+                        <div class="my-listone borderbuttom">
+                            <b>优惠券</b>
+                            <i><strong v-if="username!=null">{{datas.data.user.pointfrozen}}</strong></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                          <div class="my-listone borderbuttom">
+                            <b>绑定手机</b>
+                            <i><strong v-if="username!=null">{{datas.data.user.mobile}}</strong></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                             <div class="my-listone borderbuttom">
+                            <b>设置支付密码</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-listone ">
+                            <b>地址管理</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-hr"></div>
+                         <div class="my-listone borderbuttom">
+                            <b>消息中心</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                         <div class="my-listone ">
+                            <b>客服电话</b>
+                            <i><label>(8:00-24:00)</label><strong>400-119-1111</strong></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-hr"></div>
+                         <div class="my-listone">
+                            <b>下载银泰网客户端</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-hr"></div>
+                         <div class="my-listone ">
+                            <b>帮助中心</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-hr"></div>
+                        <div v-if="username!=null" class="my-button">
+                            <span>退出账户</span>
+                        </div>
 					</div>
 				</div>
 			</div>

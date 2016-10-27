@@ -8,17 +8,23 @@ import main from './components/main.vue';
 import classif from './components/classif.vue';
 import my from './components/my.vue';
 import shoppingcat from './components/shoppingcat.vue';
+import shoppinglist from './components/shoppinglist.vue';
 
-import Vue from './libs/vue.js';
 import VueRouter from './libs/vue-router.js';
 import Vueresourece from './libs/Vue-resource.min.js';
 
+import store from './vuex/store';
+
+var App = Vue.extend({
+    store: store
+});
 Vue.use(VueRouter);
 Vue.use(Vueresourece);
+//在根组件加入 store，让它的子组件和 store 连接
+
 
 var router = new VueRouter();
 
-var App = Vue.extend({});
 
 router.map({
     '/': {
@@ -40,6 +46,9 @@ router.map({
                 component: my
             }
         }
+    },
+    '/shoppinglist': {
+        component: shoppinglist
     }
 })
 router.start(App, 'body');
