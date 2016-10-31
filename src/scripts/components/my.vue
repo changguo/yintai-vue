@@ -52,12 +52,19 @@
                             <i></i>
                             <span class="iconfont"></span>
                         </div>
-                        <div class="my-listone borderbuttom">
+                        <div class="my-hr"></div>
+                          <div class="my-listone" v-link="{path:'/map'}">
+                            <b>银泰实体分布点（地图）</b>
+                            <i></i>
+                            <span class="iconfont">&#xe606;</span>
+                        </div>
+                        <div class="my-hr"></div>
+                        <div class="my-listone borderbuttom" v-if="datas!=null">
                             <b>优惠券</b>
                             <i><strong v-if="username!=null">{{datas.data.user.pointfrozen}}</strong></i>
                             <span class="iconfont">&#xe606;</span>
                         </div>
-                          <div class="my-listone borderbuttom">
+                          <div class="my-listone borderbuttom" v-if="datas!=null">
                             <b>绑定手机</b>
                             <i><strong v-if="username!=null">{{datas.data.user.mobile}}</strong></i>
                             <span class="iconfont">&#xe606;</span>
@@ -106,6 +113,7 @@
 	</div>
 </template>
 <script>
+    import common from "../utils/commonutil.js";
     export default {
         data() {
             return {
@@ -124,15 +132,18 @@
                 this.$http.get('/mock/my.json?username=' + this.username).then(function(res) {
                     if (res.data.isSuccessful) {
                         this.datas = res.data;
-                        console.log(this.datas);
+                        this.change();
                     }
                 })
             }
         },
         methods: {
             change: function() {
+                var that = this;
                 this.$nextTick(function() {
-                    this.myscroll.refresh();
+                    common.isAllLoaded('.my', function() {
+                        that.myscroll.refresh();
+                    })
                 })
             }
         }

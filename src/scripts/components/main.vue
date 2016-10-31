@@ -16,16 +16,16 @@
 		</section>
 		<div class="scrollcontainers">
 			<div id="mainscroll" class="mainscroll">
-				<div>
+				<div v-if="value.data">
 					<!--轮播图-->
 					<div class="swiper-container">
 						<div class="swiper-wrapper">
 							<div class="swiper-slide" v-for="item in value.data.bannerlist">
-								<img v-link="{path:'/shoppinglist'}"  transition="expand" v-bind:src="item.imgurl" v-bind:alt="item.imgname">
+								<img v-link="{path:'/login'}"  transition="expand" v-bind:src="item.imgurl" v-bind:alt="item.imgname">
 							</div>
 						</div>
 					</div>
-					<div v-for="it in value.data.templatelist">
+					<div class="main-allload" v-for="it in value.data.templatelist">
 						<!--四个分类-->
 						<template v-if="it.templatetype=='FuncAreaFourImg'">
 							<div class="FuncAreaFourImg">
@@ -50,7 +50,7 @@
 <!--横向列表-->
 <template v-if="it.templatetype=='ProductSingleRow'">
 							<div class="ProductSingleRow4" id="ProductSingleRow4">
-								<ul>
+									<ul style="width:{{widths+'px'}}">
 									<li v-for="item in it.items">
 										<span>{{item.extra.productdetail.prmotionlist[0].plabel}}</span>
 										<img v-bind:height="item.height/2" v-bind:src="item.imgurl" alt="">
@@ -123,12 +123,16 @@
 </div>
 </template>
 <script>
+    import common from "../utils/commonUtil.js";
     export default {
         data() {
             return {
-                Productrow: "1000px",
+                widths: '1000',
                 value: {},
                 text: "",
+                mySwiper: null,
+                ProductSingleRow4icroll: null,
+                mainscroll: null
             }
         },
         ready() {
@@ -138,8 +142,7 @@
                         if (res.data.isSuccessful) {
                             this.value = res.data;
                             this.change();
-                            // this.ProductSingleRow4_width = this.value.data.templatelist[3].items.length * 90;
-                            console.log(this.value);
+                            this.widths = res.data.data.templatelist[3].items.length * 110;
                         }
 
                     }
@@ -147,21 +150,28 @@
         },
         methods: {
             change: function() {
+                var that = this;
                 this.$nextTick(function() {
-                    var mySwiper = new Swiper('.swiper-container', {
-                        autoplay: 1000, //可选选项，自动滑动
-                        loop: true,
-                    });
-                    var ProductSingleRow4icroll = new IScroll('#ProductSingleRow4', {
-                        scrollX: true,
-                        scrollY: false,
-                        click: true
-                    });
-                    var mainscroll = new IScroll('.mainscroll', {
-                        scrollX: false,
-                        scrollY: true,
-                        mouseWheel: true,
-                        click: true
+                    common.isAllLoaded('.swiper-container', function() {
+                        that.mySwiper = new Swiper('.swiper-container', {
+                            autoplay: 1000, //可选选项，自动滑动
+                            loop: true,
+                        });
+                    })
+                    common.isAllLoaded('.main-allload', function() {
+                        that.mainscroll = new IScroll('.mainscroll', {
+                            scrollX: false,
+                            scrollY: true,
+                            mouseWheel: true,
+                            click: true
+                        });
+                        common.isAllLoaded('.ProductSingleRow4', function() {
+                            that.ProductSingleRow4icroll = new IScroll('.ProductSingleRow4', {
+                                scrollX: true,
+                                scrollY: false,
+                                click: true
+                            });
+                        })
                     })
                 })
             }

@@ -9,11 +9,16 @@ import classif from './components/classif.vue';
 import my from './components/my.vue';
 import shoppingcat from './components/shoppingcat.vue';
 import shoppinglist from './components/shoppinglist.vue';
+import map from './components/map.vue';
+import login from './components/login.vue';
+import splash from './components/splash.vue';
+
 
 import VueRouter from './libs/vue-router.js';
 import Vueresourece from './libs/Vue-resource.min.js';
 
 import store from './vuex/store';
+
 
 var App = Vue.extend({
     store: store
@@ -28,6 +33,9 @@ var router = new VueRouter();
 
 router.map({
     '/': {
+        component: splash
+    },
+    '/index': {
         component: index,
         subRoutes: {
             '/': {
@@ -49,6 +57,12 @@ router.map({
     },
     '/shoppinglist': {
         component: shoppinglist
+    },
+    '/map': {
+        component: map
+    },
+    '/login': {
+        component: login
     }
 })
 router.start(App, 'body');

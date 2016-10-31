@@ -1,0 +1,24 @@
+.map-nav {
+    width: 100%;
+    height: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    .map-head {
+        height: 50px;
+        width: 100%;
+        border-bottom: 1px solid #000;
+        h2 {
+            text-align: center;
+            line-height: 50px;
+            background: #E62F6E;
+            color: #fff;
+        }
+    }
+    .map-main {
+        @include flex();
+        width: 100%;
+        #mapContainer {
+            height: 100%;
+        }
+    }
+}

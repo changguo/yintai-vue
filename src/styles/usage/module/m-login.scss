@@ -1,0 +1,89 @@
+.login-body {
+    height: 100%;
+    width: 100%;
+    @include flexbox();
+    @include flex-direction(column);
+    .login-head {
+        height: 35px;
+        width: 100%;
+        @include flexbox();
+        @include flex-direction(row);
+        @include border(0 0 1px 0, #000, solid);
+        div {
+            @include flex();
+            line-height: 35px;
+            &:nth-child(1) {
+                span {
+                    font-size: 1em;
+                }
+                margin-left: 1em;
+            }
+            &:nth-child(3) {
+                span {
+                    font-size: 2em;
+                    color: #999999;
+                }
+            }
+            h2 {
+                text-align: center;
+            }
+        }
+        .login-head-middle {
+            @include flex(8);
+        }
+    }
+    .login-main {
+        @include flex();
+        width: 100%;
+        .login-bg {
+            height: 10em;
+            width: 100%;
+            @include border(0 0 1px 0, #D0D0D0, solid);
+        }
+        .login-input {
+            width: 100%;
+            height: 4em;
+            background: #fff;
+            @include border(0 0 1px 0, #D0D0D0, solid);
+            @include flexbox();
+            @include flex-direction(row);
+            span {
+                @include flex(1);
+                height: 100%;
+                font-size: 2em;
+                margin-left: 0.5em;
+                line-height: 2em;
+                color: #999999;
+            }
+            input {
+                @include flex(4);
+                height: 2em;
+                margin-top: 1.1em;
+                border: none;
+                font-weight: 600;
+            }
+            label {
+                @include flex(2);
+            }
+        }
+        .yanzhengma {
+            @include flexbox();
+            @include flex-direction(row);
+            height: 4em;
+            width: 100%;
+            .yanzhengmale {
+                @include flex(3);
+                input {
+                    height: 2em;
+                    margin:1em 0 1em 1em;
+                }
+            }
+            .yanzhengmari {
+                @include flex(1);
+                img {
+                    height: 2em;
+                }
+            }
+        }
+    }
+}

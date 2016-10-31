@@ -1,0 +1,54 @@
+.Splash {
+    width: 100%;
+    height: 100%;
+    .swiper-splash {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        .swiper-slide {
+            width: 100%;
+            height: 100%;
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .swiper-pagination {
+            top: 88%;
+            left: 30%;
+            width: 40%;
+            span {
+                margin: 0 4%;
+            }
+        }
+        .splash-button {
+            width: 50%;
+            top: 88%;
+            left: 25%;
+            height: 7%;
+            padding-top: 2%;
+            @include border(2px, #6071BF, solid, 5px);
+            position: absolute;
+            input {
+                height: 70%;
+                width: 80%;
+                margin-left: 10%;
+                border: none;
+                background: #fff;
+                color: #6071BF;
+            }
+        }
+    }
+}
+
+.texts-transition {
+    transition: all 3s ease;
+    top: -1000px;
+    left: -1000px;
+}
+
+.texts-enter,
+.texts-leave {
+    top: 0;
+    left: 0;
+}

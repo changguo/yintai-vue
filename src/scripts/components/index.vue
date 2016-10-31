@@ -38,27 +38,27 @@
             return {
                 cur: 0,
                 tablist: [{
-                    path: '/',
+                    path: '/index',
                     imgurl: '/images/tabar_index.png',
                     imgchangeurl: '/images/tabar_index_s.png',
                     name: "首页"
                 }, {
-                    path: '/deal',
+                    path: '/index/deal',
                     imgurl: '/images/tabar_temai.png',
                     imgchangeurl: '/images/tabar_temai_s.png',
                     name: "特卖"
                 }, {
-                    path: '/classif',
+                    path: '/index/classif',
                     imgurl: '/images/tabar_list.png',
                     imgchangeurl: '/images/tabar_list_s.png',
                     name: "分类"
                 }, {
-                    path: '/shoppingcat',
+                    path: '/index/shoppingcat',
                     imgurl: '/images/tabar_gouwuche.png',
                     imgchangeurl: '/images/tabar_gouwuche_s.png',
                     name: "购物车"
                 }, {
-                    path: '/my',
+                    path: '/index/my',
                     imgurl: '/images/tabar_wode.png',
                     imgchangeurl: '/images/tabar_wode_s.png',
                     name: "我的银泰"

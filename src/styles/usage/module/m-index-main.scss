@@ -51,13 +51,13 @@
                 width: 100%;
                 overflow: hidden;
                 ul {
-                    @include flexbox();
-                    @include flex-direction(row);
-                    width: 1000px;
                     li {
                         position: relative;
-                        min-width: 90px;
-                        @include flex();
+                        float: left;
+                        width: 110px;
+                        img {
+                            width: 90px;
+                        }
                         span {
                             position: absolute;
                             display: block;

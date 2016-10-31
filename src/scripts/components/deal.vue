@@ -14,7 +14,7 @@
 		</div>
 
 		<div class="deal-main-scroll">
-			<div class="deal-swiper">
+			<div class="deal-swiper" v-if="list.data">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="deal-main1">
